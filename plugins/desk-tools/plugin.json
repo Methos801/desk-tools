@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "desk-tools",
+  "description": "Everyday Copilot operating modes, local-model task packets, corpus inventory, and kernel stewardship",
+  "version": "0.5.4",
+  "author": {
+    "name": "Personal Copilot Tools"
+  }
+}
